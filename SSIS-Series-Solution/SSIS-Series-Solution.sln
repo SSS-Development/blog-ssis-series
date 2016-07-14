@@ -11,9 +11,9 @@ Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "3-Data-Flow-Intro", "SSIS-S
 EndProject
 Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "0-Demo-Packages", "SSIS-Series-0-Demo-Packages\0-Demo-Packages.dtproj", "{A38DA454-FB63-4018-A193-76EB222B9154}"
 EndProject
-Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "5-Parameters-and-Variables", "SSIS-Series-4-Parameters-and-Variables\5-Parameters-and-Variables.dtproj", "{F7611F45-D03F-4CCC-A27D-B1DF57189F51}"
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "5-Parameters-and-Variables", "SSIS-Series-5-Parameters-and-Variables\5-Parameters-and-Variables.dtproj", "{F7611F45-D03F-4CCC-A27D-B1DF57189F51}"
 EndProject
-Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "4-Data-Flow-Components", "4-Data-Flow-Components\4-Data-Flow-Components.dtproj", "{277304F8-E7C6-4C04-8C55-B4911B57CFE6}"
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "4-Data-Flow-Components", "SSIS-Series-4-Data-Flow-Components\4-Data-Flow-Components.dtproj", "{277304F8-E7C6-4C04-8C55-B4911B57CFE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
